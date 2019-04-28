@@ -1,0 +1,6 @@
+{
+  "hooks": {
+    "pre-commit": "run-s precise-commits lint",
+    "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+  }
+}

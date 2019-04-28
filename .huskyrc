@@ -1,6 +1,0 @@
-  "husky": {
-    "hooks": {
-      "pre-commit": "run-s precise-commits lint"
-    }
-  }
-
